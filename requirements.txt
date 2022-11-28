@@ -1,0 +1,13 @@
+pip install ...
+
+mlrl-boomer
+scikit-multilearn
+liac-arff
+requests
+
+pandas
+keras
+tensorflow
+
+numpy
+scikit-learn
